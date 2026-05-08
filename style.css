@@ -35,8 +35,7 @@ body {
 .titulo-principal span {
     color: var(--verde);
 }
-
-@media 
+ 
 .botao {
     font-family: "Crakra Petch", sans-serif;
     background-color: var(--botao-inativo);
@@ -62,8 +61,8 @@ body {
 }
 
 .ativo{
-     background-color: var (--botao-ativo)
-     border-bottom: 4px solid var(--rosa);
+     background-color: var(--botao-ativo);
+     border-bottom: 4px solid rgb(234, 28, 62);
 }
 
 @media screen and (min-width: 768px) {
